@@ -3,12 +3,12 @@
 ##### troll your friends with it (if you have any)
 
 
-# linux
+# command for linux
 ```bash
 curl -fsSL https://raw.githubusercontent.com/12hrformat/dragon/main/install | bash
 ```
 
-# window
+# command for windows
 ```Poweshell
 irm https://raw.githubusercontent.com/12hrformat/dragon/main/install.ps1 | iex
 ```
